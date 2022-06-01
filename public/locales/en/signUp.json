@@ -1,0 +1,20 @@
+{
+  "username": "Username",
+  "username-1": "Username *",
+  "e-mail": "E-mail",
+  "e-mail-1": "E-mail *",
+  "first-name": "First Name",
+  "first-name-1": "First name *",
+  "last-name": "Last Name",
+  "last-name-1": "Last Name *",
+  "phone-number": "Phone #",
+  "phone-number-1": "Phone # *",
+  "send": "Send",
+  "password": "Password",
+  "password-1": "Password *",
+  "required-fields": "Fields that are marked with * sign are required.",
+  "already-account": "Already have an account?",
+  "sign-in": "Login",
+  "sign-up": "Sign up",
+  "error": "There was an error when creating your account"
+}

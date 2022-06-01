@@ -1,0 +1,37 @@
+{
+  "hero": "Fuel your team for success!",
+  "hero-subtitle": "Thank your team, clients and employees with a box of curated healthy treats and mindful products!",
+  "get-started": "Get Started",
+  "features-title": "Great for virtual events!",
+  "features-1": "Provide a budget and quantity",
+  "features-2": "Box customizations availible",
+  "features-3": "Shipped directly to recipients",
+  "features-4": "Select diet preferences",
+
+  "how-it-works": "How it works",
+  "how-step-1-1": "Get Started",
+  "how-step-1-2": "Fill out the form below with your budget, quantity and customizations in mind and one of our reps will contact you shortly.",
+  "how-step-2-1": "Send A Link To Recipients",
+  "how-step-2-2": "A customized link will be provided to be sent to all recipients to gather shipping info and diet preferences.",
+  "how-step-3-1": "Get The Boxes",
+  "how-step-3-2": "All boxes will be shipped out directly to recipients for them to enjoy. We suggest hosting a virtual event to open the boxes all together!",
+
+  "contact-title": "Get in touch to get started!",
+  "company-name": "Company Name",
+  "company-name-placeholder": "Company Name",
+  "phone-number": "Phone Number",
+  "phone-number-placeholder": "Phone Number",
+  "e-mail": "Email Address",
+  "e-mail-placeholder": "Email Address",
+  "website": "Website",
+  "website-placeholder": "Website",
+  "budget-quantity": "Required budget and quantity of boxes",
+  "box-customization": "Box customizations",
+  "confirmation": "An email with your company details have been sent to our reps.",
+  "confirmation-2": "We will contact you shortly!",
+  "close": "Close",
+  "error": "An error occured with our mailing service... please email these details manually.",
+  "send": "Send",
+
+  "still-have-question": "Need more info?"
+}

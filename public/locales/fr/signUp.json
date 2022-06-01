@@ -1,0 +1,20 @@
+{
+  "username": "Nom d'utilisateur",
+  "username-1": "Nom d'utilisateur *",
+  "e-mail": "Adress courriel",
+  "e-mail-1": "Adress courriel *",
+  "first-name": "Prénom",
+  "first-name-1": "Prénom *",
+  "last-name": "Nom de famille",
+  "last-name-1": "Nom de famille *",
+  "phone-number": "Téléphone #",
+  "phone-number-1": "Téléphone # *",
+  "send": "Envoyer",
+  "password": "Mot de passe",
+  "password-1": "Mot de passe *",
+  "required-fields": "Les champs marqués du signe * sont obligatoires.",
+  "already-account": "Vous avez déjà un compte?",
+  "sign-in": "Ouvrir une session",
+  "sign-up": "S'inscrire",
+  "error": "Une erreur s'est produite lors de la création de votre compte"
+}

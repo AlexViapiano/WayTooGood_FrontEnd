@@ -1,0 +1,45 @@
+@import '~react-notifications-component/dist/theme.css';
+@import '~react-responsive-carousel/lib/styles/carousel.min.css';
+// @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Work%20Sans&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-y: scroll;
+}
+
+body {
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+#root {
+  height: 100%;
+}
+
+// @font-face {
+//   font-family: 'Romper';
+//   src: url('/fonts/Romper/Romper-Medium.otf');
+//   font-style: normal;
+//   font-weight: 400;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('../../public/fonts/Lato/Lato.ttf');
+//   font-style: normal;
+//   font-weight: 400;
+//   font-display: swap;
+// }

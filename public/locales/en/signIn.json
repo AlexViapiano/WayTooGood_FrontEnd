@@ -1,0 +1,13 @@
+{
+  "no-account": "Don’t have an account?",
+  "sign-up": "Sign Up",
+  "e-mail-invalid": "Email or password is invalid",
+  "'e-mail": "E-mail",
+  "password": "Password",
+  "required-fields": "Fields that are marked with * sign are required.",
+  "sign-in": "Login",
+  "or": "or...",
+  "google-sign-in": "Signin with Google",
+  "forgot-password": "Forgot your password?",
+  "reset-password": "Reset password"
+}

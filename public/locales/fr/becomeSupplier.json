@@ -1,0 +1,64 @@
+{
+  "_comment": "Contact form",
+
+  "contact-title": "Contactez-nous pour commencer!",
+  "company-name": "Nom de la compagnie",
+  "company-name-placeholder": "Nom de la compagnie",
+  "phone-number": "Numéro de téléphone",
+  "phone-number-placeholder": "Numéro de téléphone",
+  "e-mail": "Adresse Courriel",
+  "e-mail-placeholder": "Adresse Courriel",
+  "website": "Site Web",
+  "website-placeholder": "Site Web",
+  "company-description": "Description de l'entreprise",
+  "company-description-placeholder": "Description de l'entreprise",
+  "tell-us": "portail",
+  "tell-us-placeholder": "Dis nous en plus!",
+  "confirmation": "Un courriel avec les détails de votre entreprise a été envoyé à nos représentants.",
+  "confirmation-2": "Nous vous contacterons bientôt!",
+  "close": "Fermer",
+  "error": "Une erreur s'est produite avec notre service... veuillez envoyer ces détails manuellement.",
+  "send": "Envoyer",
+
+  "_comment2": "Hero",
+
+  "portal": "portail",
+  "portal-info": "Notre famille s'agrandit toujours! Les entreprises avant-gardistes utilisent notre plateforme en tant que service pour gagner des parts de marché, accroître la reconnaissance de la marque et recevoir des commentaires précieux des acheteurs lors de la vente de leurs produits de style de vie. Nos fournisseurs ont accès à un portail back-end afin de gérer leurs produits, commandes, factures et plus encore.",
+  "get-started": "Commencer",
+
+  "_comment3": "Integration",
+
+  "become-supplier": "Devenir fournisseur",
+  "control-over-your-brand": "Contrôle de votre marque",
+  "control-over-your-brand-subtext": "LISTE, PRIX, MODIFIEZ vos listes de produits aussi souvent que vous le souhaitez. Gérez votre marque et vos produits avec un contrôle total pour mettre à jour et maintenir l'image de votre marque. Créez des offres groupées, des promotions, des remises et bien plus encore ... avec WTG",
+  "participate": "Participez au programme WBOX",
+  "participate-subtext": "Obtenez vos produits dans des centaines à des milliers de foyers immédiatement en participant à notre programme W box. Obtenez les commentaires et la notoriété dont votre marque a besoin et qu'il mérite.",
+  "direct-to-consumer": "Direct au consommateur (gagnez plus)",
+  "direct-to-consumer-subtext": "Avec WTG, vous vendez directement au consommateur final car nous sommes un marché tiers. Pas besoin de proposer des prix de gros et vous gagnerez sur la vente complète de vos produits vendus moins nos petits frais de transaction WTG.",
+  "engaging-review": "Examen et classement engageants",
+  "engaging-review-subtext": "Grâce à notre système d'examen et de classement interactif et engageant, les consommateurs se sentiront plus en confiance pour acheter et essayer. C'est un point de vente idéal pour la notoriété de la marque et les commentaires sur vos produits.",
+  "new-marketplace": "Nouveau marché, nouvelles ventes",
+  "new-marketplace-subtext": "Le titre parle de lui-même. Faites partie de la communauté «Way Too Good» alors que nous grandissons avec notre marché de nouvelle génération.",
+
+  "basic": "Plan de Base",
+  "fee": "Frais",
+  "control-over-brand": "Contrôlez votre marque - Listez, prix et modifiez vos listes de produits",
+  "have-products-featured": "Faire participer les produits au programme Wbox",
+  "interact-with-customer": "Communiquez avec les clients et les influenceurs",
+  "assist-in-managing": "Les représentants WayTooGood aident à gérer les annonces",
+  "shipped-from-supplier": "Produits expédiés à partir de l'emplacement du fournisseur",
+
+  "Convenience": "Commodité",
+  "fulfilled-by-waytoogood": "Produits fournis par WayTooGood",
+  "inventory-management": "Gestion de l'inventaire",
+  "waytoogood-processes": "WayTooGood traite les commandes",
+  "participate-in-pomotional": "Participez à des événements promotionnels",
+
+  "_comment4": "Support",
+
+  "support-team": "équipe de soutien",
+  "support-team-title-1": "Notre équipe de support amicale",
+  "support-team-title-2": "vous aidera avec quoi que ce soit",
+  "support-team-subtext": "Nous visons à prendre soin de vous. Besoin d'aide avec notre système, trouver un bogue ou simplement besoin d'une clarification sur notre documentation? Nous serons là pour donner un coup de main.",
+  "contact-us": "Nous contacter"
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "Contact form",
+
+  "contact-title": "Get in touch to get started!",
+  "company-name": "Company Name",
+  "company-name-placeholder": "Company Name",
+  "phone-number": "Phone Number",
+  "phone-number-placeholder": "Phone Number",
+  "e-mail": "Email Address",
+  "e-mail-placeholder": "Email Address",
+  "website": "Website",
+  "website-placeholder": "Website",
+  "company-description": "Company Description",
+  "company-description-placeholder": "Company Description",
+  "tell-us": "Tell us more!",
+  "tell-us-placeholder": "Tell us more!",
+  "confirmation": "An email with your company details have been sent to our reps.",
+  "confirmation-2": "We will contact you shortly!",
+  "close": "Close",
+  "error": "An error occured with our mailing service... please email these details manually.",
+  "send": "Send",
+
+  "_comment2": "Hero",
+
+  "portal": "portal",
+  "portal-info": "Our community is exponentially growing! By using our platform as a service, businesses can gain market share, increase brand recognition, and generate valuable feedback from shoppers on their health food products. Suppliers can gain access to our back-end where they can manage their orders, invoices, and products.",
+  "get-started": "Get Started",
+
+  "_comment3": "Integration",
+
+  "become-supplier": "Become a Supplier",
+  "control-over-your-brand": "Control Your Brand",
+  "control-over-your-brand-subtext": "List, price, and edit your product listings as often as you like. Keep your brand's image up-to-date by managing your products, building variety packs, offering promotions and so much more... with Way Too Good.",
+  "participate": "Participate in our subscription box program",
+  "participate-subtext": "Participate in our health food subscription box program to receive immediate exposure of your new products in thousands of homes. Give your brand the attention and feedback it deserves.",
+  "direct-to-consumer": "Direct to Consumer",
+  "direct-to-consumer-subtext": "With our third-party marketplace, you can sell directly to the end consumer without having to offer wholesale prices.",
+  "engaging-review": "Review and Rating System",
+  "engaging-review-subtext": "With our interactive and engaging review and rating system, consumers will feel more confident to buy and try. The platform is excellent for spreading your brand awareness and collecting feedback about your products.",
+  "new-marketplace": "New Marketplace, New Sales",
+  "new-marketplace-subtext": "The title speaks for itself. Join the Waytoogood community as we grow our next generation marketplace.",
+
+  "basic": "Basic",
+  "fee": "Fee",
+  "control-over-brand": "~ Control over your brand - List, price and edit your product listings",
+  "have-products-featured": "~ Have products featured in the Wbox program",
+  "interact-with-customer": "~ Interact with customer and influencers",
+  "assist-in-managing": "~ WayTooGood reps assist in managing listings",
+  "shipped-from-supplier": "~ Products shipped from supplier location",
+
+  "fulfilled-by-waytoogood": "~ Products fulfilled by WayTooGood",
+  "inventory-management": "~ Inventory Management",
+  "waytoogood-processes": "~ WayTooGood processes orders",
+  "participate-in-pomotional": "~ Participate in promotional events",
+
+  "_comment4": "Support",
+
+  "support-team": "support team",
+  "support-team-title-1": "Our friendly support team",
+  "support-team-title-2": "will help you with anything.",
+  "support-team-subtext": "Our knowledgeable support team is always ready to help.",
+  "contact-us": "Contact us"
+}

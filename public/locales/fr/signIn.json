@@ -1,0 +1,13 @@
+{
+  "no-account": "Vous n’avez pas de compte?",
+  "sign-up": "S'inscrire",
+  "e-mail-invalid": "L'adresse courriel ou le mot de passe n'est pas valide",
+  "'e-mail": "Adress Courriel",
+  "password": "Mot de passe",
+  "required-fields": "Les champs marqués du signe * sont obligatoires.",
+  "sign-in": "Connexion ",
+  "or": "ou...",
+  "google-sign-in": "Connectez-vous avec Google",
+  "forgot-password": "Mot de passe oublié?",
+  "reset-password": "Réinitialiser le mot de passe"
+}

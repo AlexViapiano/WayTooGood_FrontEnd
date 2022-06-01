@@ -1,0 +1,5 @@
+export { default as ContentLeft } from './ContentLeft'
+export { default as ContentRight } from './ContentRight'
+export { default as Reviews } from './Reviews'
+export { default as SimilarProducts } from './SimilarProducts'
+export { default as BrandBanner } from './BrandBanner'
